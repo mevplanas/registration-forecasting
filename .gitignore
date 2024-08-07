@@ -1,2 +1,4 @@
 venv/
 input/
+result.csv
+csv_2_prqt.py

@@ -2,3 +2,6 @@ venv/
 input/
 result.csv
 csv_2_prqt.py
+result_1.csv
+permits.py
+forecasting_w_permits.ipynb
